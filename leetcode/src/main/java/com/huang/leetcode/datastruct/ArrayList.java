@@ -1,4 +1,4 @@
-package com.huang.leetcode.algorithm;
+package com.huang.leetcode.datastruct;
 
 //数组需要连续的内存空间，所以这个连续的内存空间就必须要有个容量
 //因为内存都是有限的，不可能给你分配无限的内存空间。。如果满了，就需要扩容，分配一块更大的连续内存然后复制过去。

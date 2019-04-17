@@ -1,7 +1,7 @@
 package com.huang.leetcode.ch4;
 
 
-import com.huang.leetcode.algorithm.LinkedList;
+import com.huang.leetcode.datastruct.LinkedList;
 
 public class Solution
 {

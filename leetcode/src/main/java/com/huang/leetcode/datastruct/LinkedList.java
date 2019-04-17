@@ -1,4 +1,4 @@
-package com.huang.leetcode.algorithm;
+package com.huang.leetcode.datastruct;
 
 //所谓链表，无非就是保留一个头结点的引用，然后定义一些增删改查的方法而已。
 //就像HashMap里面的Entry链表一样。。。
