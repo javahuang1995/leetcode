@@ -2,8 +2,7 @@ package com.huang.leetcode.ch1;
 
 import java.util.HashMap;
 
-
-//会发财的大佬都会喜欢做算法题，我也是。
+//abc
 public class Solution {
 
     //"abcabcbb"
