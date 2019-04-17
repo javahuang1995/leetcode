@@ -21,7 +21,6 @@ public class LinkedList
     public void add(int v){
         LinkedNode node = new LinkedNode(v);
         size++;
-
         //头插法
         node.next = head;
         head = node;
